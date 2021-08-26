@@ -1,2 +1,3 @@
-# SSID-and-Password
-Login Page that asks for  an SSID and a Password, and connected with the base control panel.
+- Creating login page containing SSID and Password, using HTML and CSS.
+
+- Connecting this page with the Robot base control.
